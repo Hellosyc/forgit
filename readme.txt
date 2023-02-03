@@ -1,2 +1,2 @@
-i am a man
-hrllo
+i am not a man
+hello
